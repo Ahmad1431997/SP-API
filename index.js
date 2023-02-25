@@ -31,9 +31,9 @@ app.post("/update-address", (req, res) => {
     });
     var config = {
       method: 'post',
-      url: 'https://api.adalo.com/v0/apps/b70b372b-9814-425e-92e3-aae6a2a76b03/collections/t_3gke7k3bd2xm6de8hylmyd9eu',
+      url: 'https://api.adalo.com/v0/apps/0e2f9406-7e4a-49ca-a3ba-b02c8fdc2171/collections/t_dj1khjd1yukhvtlk3hpy66mki',
       headers: {
-        'Authorization': 'Bearer 5d2fcvsop5ql5im9lr0qw3pql',
+        'Authorization': 'Bearer 2f92nu25htsudwlv7eabutps3',
         'Content-Type': 'application/json'
       },
       data : data
